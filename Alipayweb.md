@@ -8,7 +8,7 @@ V10专业版直接同步应用之后下载就好了
 #### 2.使用配置：[请提前注册好支付宝开放平台](https://openhome.alipay.com/platform/developerIndex.htm)
 
 安装好支付宝网页支付插件后，可以在系统接口--->支付接口中查看
-![](img_pay_interface\2.png)
+![](img_pay_interface/2.png)
 
 配置接口前需要进行签约并创建应用，才可获得APPID、支付宝公钥及商户私钥。[支付宝网页支付签约地址](https://b.alipay.com/signing/productDetailV2.htm?productId=I1011000290000001000)
 
