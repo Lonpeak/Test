@@ -3,8 +3,7 @@
 #### 1.使用前置：业务系统--->应用--->插件列表--->下载支付宝网页支付
 
 V10专业版直接同步应用之后下载就好了
-
-![](img_pay_interface\1.png)
+![](img_pay_interface/1.png)
 
 #### 2.使用配置：[请提前注册好支付宝开放平台](https://openhome.alipay.com/platform/developerIndex.htm)
 
