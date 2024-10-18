@@ -4,7 +4,7 @@
 
 V10专业版直接同步应用之后下载就好了
 
-![]()![1](img_pay_interface\1.png)
+![](img_pay_interface\1.png)
 
 #### 2.使用配置：[请提前注册好支付宝开放平台](https://openhome.alipay.com/platform/developerIndex.htm)
 
