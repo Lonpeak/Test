@@ -13,7 +13,7 @@ V10专业版直接同步应用之后下载就好了
 配置接口前需要进行签约并创建应用，才可获得APPID、支付宝公钥及商户私钥。[支付宝网页支付签约地址](https://b.alipay.com/signing/productDetailV2.htm?productId=I1011000290000001000)
 
 开通应用之后就可以在接口配置中填入对应的配置了
-![](img_pay_interface\3.png)
+![](img_pay_interface/3.png)
 
 1. AppId的获取方式参考：[支付宝网页支付获取AppId](https://opendocs.alipay.com/support/01rau9)
 
@@ -21,7 +21,7 @@ V10专业版直接同步应用之后下载就好了
 
 3. 获取支付宝公钥：[支付宝网页支付获取Alipay公钥](https://opendocs.alipay.com/support/01rauu?ant_source=opendoc_recommend)
 
-   ![](img_pay_interface\4.png)
+   ![](img_pay_interface/4.png)
 
 
 
