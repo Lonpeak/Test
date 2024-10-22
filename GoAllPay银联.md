@@ -25,7 +25,7 @@ stringSignTemp: OsType=IOS&OsVersion=&acqID=99020344&backURL=https://testapi.all
 signature: 40f1e5adebba58cc7822dac0b3a2bfebb6676e245370be027cdfb952695bee29
 ```
 
-以上示例中，stringsigntemp中的最后的 *** `key` *** 就是密钥
+以上示例中，stringsigntemp中的最后的 ***`key`*** 就是密钥
 最后的货币单位请自行填写`HKD`或`USD`等
 更加详细的信息可以查看API文档：[GoAllPay在线支付接入规范文档V5.2.3](https://git.allpayx.com/OpenAPI/common/src/master/AllPay_Integration_Specification_CH.md#goallpay%E5%9C%A8%E7%BA%BF%E6%94%AF%E4%BB%98%E6%8E%A5%E5%85%A5%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3v523)
 
